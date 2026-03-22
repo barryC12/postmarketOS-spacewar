@@ -24,7 +24,7 @@ From your home directory:
 
 ```sh
 cd ~
-git clone --depth 1 https://github.com/howtoedittv/postmarketOS-spacewar
+git clone --depth 1 https://github.com/barryC12/postmarketOS-spacewar
 cd postmarketOS-spacewar
 ```
 
